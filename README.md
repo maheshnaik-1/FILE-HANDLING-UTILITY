@@ -75,3 +75,7 @@ Online Java Compilers – Platforms like JDoodle and Programiz were tested.  Som
   Appending Data: Without deleting the original information, more text can be added at the end of the file.
 
   Confirmation Messages: To let the user know what has happened, the application shows a success or error message following each activity.
+
+![Image](https://github.com/user-attachments/assets/0ca7829d-cec0-4421-aa3e-d741c00adb1b)
+
+![Image](https://github.com/user-attachments/assets/ea8fe581-b99f-4d98-b0e6-54d3465556ec)
