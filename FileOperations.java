@@ -9,7 +9,7 @@ public class FileOperations {
             System.out.println("Do you want to create a new file or open existing? (C/O): ");
             String choice = sc.nextLine().toUpperCase();
 
-            System.out.println("Enter the full path of the file (e.g., C:\\Users\\Mahi\\Documents\\file.txt):");
+            System.out.println("Enter the full path of the file (e.g., C:\\Users\\xyz\\Documents\\file.txt):");
             String filePath = sc.nextLine();
 
             File file = new File(filePath);
