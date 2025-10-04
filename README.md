@@ -79,7 +79,9 @@ Online Java Compilers – Platforms like JDoodle and Programiz were tested.  Som
   # Output:
 
   Do you want to create a new file or open existing? (C/O): 
+  
   c
+  
   Enter the full path of the file (e.g., C:\Users\Mahi\Documents\file.txt):
 
   C:\Users\Dell\Downloads\HelloWorld.txt
@@ -87,18 +89,25 @@ Online Java Compilers – Platforms like JDoodle and Programiz were tested.  Som
   File created successfully at: C:\Users\Dell\Downloads\HelloWorld.txt
 
   Enter text to write to the file (will overwrite existing content):
+  
   Good Morning
+  
   Data written successfully!
 
   --- File Content ---
+  
   Good Morning
 
   Enter text to append to the file:
+  
   How are you?
+  
   Data appended successfully!
 
   --- Updated File Content ---
+  
   Good Morning
+  
   How are you?
 
 ![Image](https://github.com/user-attachments/assets/ad0fe7ed-4ba8-4742-bfdc-c4b99a92be4c)
