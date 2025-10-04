@@ -32,7 +32,7 @@ Programming Language: Java (JDK 8)
 
   Error Handling: Implemented using try-catch blocks for safe execution
 
-  Used resources like GOOGLE, QUICKREF, YOUTUBE AND CHATGPT for quick reference, they helped me complete tasks efficiently.
+  Used resources like GOOGLE, QUICKREF, YOUTUBE AND CHATGPT for quick reference and to know some info, they helped me complete tasks efficiently.
 
 # Editors and Compiler Platforms used:
 
