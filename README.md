@@ -76,6 +76,6 @@ Online Java Compilers – Platforms like JDoodle and Programiz were tested.  Som
 
   Confirmation Messages: To let the user know what has happened, the application shows a success or error message following each activity.
 
-![Image](https://github.com/user-attachments/assets/835ecd30-6afc-4413-80dc-55671183f53a)
-
 ![Image](https://github.com/user-attachments/assets/ad0fe7ed-4ba8-4742-bfdc-c4b99a92be4c)
+
+![Image](https://github.com/user-attachments/assets/835ecd30-6afc-4413-80dc-55671183f53a)
